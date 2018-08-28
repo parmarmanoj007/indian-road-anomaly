@@ -14,3 +14,13 @@ Once the trained model is deployed, any image when fed to the model will identif
 
 Reference,original code, : https://github.com/tensorflow/models/tree/master/research/object_detection
 This POC is based on Object Detection using Google's Tensorflow framework
+
+# Citation
+@misc{tensorflow,
+  title={Tensorflow Object Detection API},
+  author={roffel, pkulzc},
+  year={2018},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/tensorflow/models/tree/master/research/object_detection}},
+}
