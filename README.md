@@ -1,4 +1,4 @@
-# indian-road-anomaly
+# Anomaly Detection on Indian Road Infrastructure
 Artificial Intelligence for Indian Transport Infrastructure
 
 We attempt to solve this problem by providing a framework based on image recognition and intelligent classification of images both static and moving. We start by building a Machine Learning [ML] model using labelled images. 
