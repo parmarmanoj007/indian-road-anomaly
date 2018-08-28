@@ -12,8 +12,7 @@ Once the trained model is deployed, any image when fed to the model will identif
 
 
 
-Reference,original code, : https://github.com/tensorflow/models/tree/master/research/object_detection
-This POC is based on Object Detection using Google's Tensorflow framework
+
 
 # Citation
 @misc{tensorflow,
@@ -24,3 +23,7 @@ This POC is based on Object Detection using Google's Tensorflow framework
   journal={GitHub repository},
   howpublished={\url{https://github.com/tensorflow/models/tree/master/research/object_detection}},
 }
+
+
+Reference,original code, : https://github.com/tensorflow/models/tree/master/research/object_detection
+This POC is based on Object Detection using Google's Tensorflow Object detection API.
